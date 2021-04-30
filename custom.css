@@ -1,0 +1,15 @@
+body,.jumbotron,{
+padding-top:72px;
+padding-bottom:20px;
+}
+
+.carousel{
+height: 450px !important;
+    width: 850px !important;
+}
+
+.navbar-custom {
+    color: #C80000;
+    background-color: #99CCFF;
+}
+
